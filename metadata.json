@@ -1,0 +1,6 @@
+{
+  "name": "Physics Draw - 물리 기반 드로잉 퍼즐",
+  "description": "선과 물체를 직접 그려 중력과 물리 법칙으로 퍼즐을 해결하는 두뇌 물리 드로잉 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
